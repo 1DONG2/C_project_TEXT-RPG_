@@ -1,0 +1,28 @@
+﻿  GameEvent.cpp
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\GameEvent.cpp(23,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\GameEvent.cpp(59,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\GameEvent.cpp(84,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  MenuList.cpp
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(40,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(67,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(74,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(172,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(180,10): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(192,10): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(214,43): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(216,40): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(217,41): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(273,43): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(274,44): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(713,15): warning C4477: 'fscanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'bool *'입니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(715,15): warning C4477: 'fscanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'bool *'입니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(757,46): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(759,43): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(760,44): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(790,60): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(790,60): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 2개가 제공되었습니다.
+  annyeong.cpp
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\annyeong.cpp(71,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\annyeong\MenuList.cpp(85): warning C4715: 'keyControl': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  annyeong.vcxproj -> C:\Users\우리집\OneDrive\바탕 화면\대학\C++프로그래밍\annyeong\Debug\annyeong.exe
